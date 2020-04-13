@@ -12,8 +12,7 @@ spring:
     password: "123khadjiev123"
     testWhileIdle: "true"
     validationQuery: "SELECT 1"
-  database:
-    driverClassName: "org.postgresql.Driver"
-
+#  database:
+#    driverClassName: "org.postgresql.Driver"
 signing:
   key: "345345fsdfsf5345"
